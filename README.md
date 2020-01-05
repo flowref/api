@@ -1,7 +1,7 @@
 # FlowRef
 
-FlowRef is a workflow engine that easy to use, powerful and extensible. 
-Any of your interface methods can be a flow with a few lines of code. Starting a flow means invoking you own methods.
+FlowRef is the **simplest Java workflow**. <br>
+Starting a flow means just invoking you own methods.
 
 ## Flow reference 
 A workflow reference is a **Java method reference to an interface method**. Flowref is the one that will implement your interface method based on your flow definition. 
